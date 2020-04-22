@@ -1,0 +1,84 @@
+
+
+header{
+  display: flex;
+  justify-content: space-between;
+  margin-top: 20px;
+};
+
+#maPhotoDeProfil{
+  max-width: 100%;
+  height: auto;
+}
+#maPhotoDeProfil{
+  filter: sepia(100%);
+  text-align: center;
+  font-weight: bold;
+  text-shadow: 5px;
+}
+#myDate{
+
+}
+
+h1,#adresse,#emploi{
+  color:#212529;
+  font-family: 'Satisfy', cursive;
+}
+
+h2{
+  color: #800000;
+}
+/*rReseaux Sociaux*/
+#reseauxSociaux{
+display: flex;
+justify-content: flex-end;
+}
+.fa{
+  color: #212529;
+  margin-left: 5px;
+}
+.container{
+  padding: : 20px;
+  border: 1px solid;
+  box-shadow: 10px 10px 10px black;
+  background-color: #f2f2f2;
+}
+.row{
+  margin-top: 10px;
+}
+/*empêcher saut de ligne automatique*/
+#petitDemoFonctionJs{
+  display: flex;
+  flex-wrap: wrap;
+  text-indent: 1em;
+}
+.jeSuis1{
+  float: left;
+}
+#contact{
+margin-left: auto;
+margin-right: auto;
+}
+#competences{
+  background-color: #2e3235;
+  color: #fff;
+}
+
+/*progressBar*/
+.progress{
+  margin-bottom: 20px;
+  font-weight: bold;
+  font-size: 10px;
+  height:40px;
+}
+#competences h2{
+color: #fff;
+}
+.autresCompetences{
+  margin-top: 10px;
+  background-color: #007bff
+}
+#btnEnvoyer{
+  background-color: black;
+  border-color: #fff;
+}

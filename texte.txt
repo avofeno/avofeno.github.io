@@ -1,0 +1,10 @@
+Les racourcis 
+
+ctrl + d dupliquer
+shift + ctrl annuler revenir en arrière
+shift + flèche sélectionner texte
+shift + fin sélection d'un mot
+shift + début sélection d'un mot
+crtl c x w copier coller couper
+alt+j Selectionner une occurence ( par exemple Selectionner tous les plus du texte)
+Alt+y supprimer une ligne

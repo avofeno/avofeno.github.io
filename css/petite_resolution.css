@@ -1,0 +1,11 @@
+@media all and (min-width: 375px) and (max-width: 700px)
+{
+#maPhotoDeProfil{
+		display: none;
+	}
+#reseauxSociaux
+	{
+display: flex;
+justify-content: flex-start;
+	}
+}
